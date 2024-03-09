@@ -109,24 +109,7 @@ printf("Running ps with execlp. Now with path specified\n");
 ```
 ## OUTPUT
 
-![alt text](002.png)
 ![alt text](03.png)
-![alt text](001.png)
-![alt text](003.png)
-![alt text](004.png)
-![alt text](005.png)
-
-
-
-
-
-
-
-
-
-
-
-
 
 # RESULT:
 The programs are executed successfully.
